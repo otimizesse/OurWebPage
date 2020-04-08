@@ -4,3 +4,27 @@
   /* border-radius: 32px; */
   /* border: solid 4px #FFF; */
 }
+
+.customer-cards {
+  height: 340px;
+}
+
+.card-body {
+  width: 100%;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.img-customer {
+  border-radius: 0px !important;
+  max-width: 85%;
+  max-height: 110px;
+}
+
+.navbar {
+  max-height: 80px;
+}
+
+.banner {
+  padding-top: 50px;
+}
