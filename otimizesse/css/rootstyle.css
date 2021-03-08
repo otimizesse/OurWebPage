@@ -1,5 +1,7 @@
 .ui-logo {
-  width: 90px;
+  width: 90px !important;
+  max-width: 90px !important;
+  min-width: 90px !important;
 }
 
 .customer-cards {
@@ -49,7 +51,9 @@
 }
 @media (max-width: 1024px) {
   .ui-logo {
-    width: 70px;
+    width: 70px !important;
+    max-width: 70px !important;
+    min-width: 70px !important;
   }
   .navbar {
     max-height: 90px;

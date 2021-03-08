@@ -6909,6 +6909,7 @@ button.bg-dark:focus {
 
 .d-flex {
   display: flex !important;
+  align-items: flex-start !important; 
 }
 
 .d-inline-flex {
